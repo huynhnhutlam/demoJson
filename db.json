@@ -41,24 +41,6 @@
     "id": 7,
     "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
     "name": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-  },
-      {
-    "userId": 1,
-    "id": 8,
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "name": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-  },
-      {
-    "userId": 1,
-    "id": 9,
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "name": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
-  },
-      {
-    "userId": 1,
-    "id": 10,
-    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-    "name": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
   }
 ],
   "vehicle":[
@@ -132,26 +114,6 @@
     "numberOfSeats": 16, 
     "id": 7
   }, 
-  {
-    "status": 0, 
-    "imageCar": "https://otosaigonvn.com/wp-content/uploads/2018/03/Xe-Ford-16-cho-transit-Luxury-1.jpg", 
-    "categoryID": "Ford16", 
-    "licensePlates": "51F - 17022", 
-    "mode": "Manual", 
-    "nameCar": "Ford Transit Luxury", 
-    "numberOfSeats": 16, 
-    "id": 8
-  }, 
-  {
-    "status": 0, 
-    "imageCar": "https://otosaigonvn.com/wp-content/uploads/2018/03/Xe-Ford-16-cho-transit-Luxury-1.jpg", 
-    "categoryID": "Ford16", 
-    "licensePlates": "51F - 17022", 
-    "mode": "Manual", 
-    "nameCar": "Ford Transit Luxury", 
-    "numberOfSeats": 16, 
-    "id": 9
-  }
 ],
   "profile": {
     "name": "typicode"
