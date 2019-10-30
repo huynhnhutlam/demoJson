@@ -77,7 +77,9 @@
     "nameRoute": "\u0110\u00e0 L\u1ea1t", 
     "image": "http://media.istockphoto.com/photos/landscape-at-mount-langbiang-picture-id621487546?k=6&m=621487546&s=612x612&w=0&h=rxnSiaeDlR_iReYQUug9TUPqXCvgK9smYcE5Yqe54jg=", 
     "rating": 4.5, 
-    "id": 1, 
+    "id": 1,
+    "lat": 11.940551,
+    "lng": 108.4563883,
     "description": "Kh\u00e1m ph\u00e1 khu resort cao c\u1ea5p trong Tuy\u1ec1n L\u00e2m - \u0110\u00e0 L\u1ea1t to\u1ea1 l\u1ea1c tr\u00ean nh\u1eefng \u0111\u1ed3i th\u00f4ng v\u1edbi khung c\u1ea3nh l\u00e3ng m\u1ea1n Tham quan \u0110\u01b0\u1eddng h\u1ea7m \u0111i\u00eau kh\u1eafc \u0111\u1ea5t \u0111\u1ecf (\u0110\u00e0 L\u1ea1t Star) - t\u00e1i hi\u1ec7n l\u1ecbch s\u1eed \u0110\u00e0 L\u1ea1t qua h\u01a1n 120 n\u0103m Tham quan ch\u1ee5p h\u00ecnh t\u1ea1i v\u01b0\u1eddn D\u00e2u t\u01b0\u01a1i"
   }, 
   {
@@ -85,13 +87,17 @@
     "image": "https://cdn2.ivivu.com/2018/03/20/17/mui-ca-mau.jpg", 
     "description": "\u0110\u01b0\u1ee3c thi\u00ean nhi\u00ean \u01b0u \u0111\u00e3i cho y\u1ebfu t\u1ed1 \u0111\u1ecba h\u00ecnh s\u00f4ng n\u01b0\u1edbc v\u1edbi nh\u1eefng v\u01b0\u1eddn tr\u00e1i c\u00e2y tr\u0129u qu\u1ea3, nh\u1eefng c\u00e1nh \u0111\u1ed3ng l\u00faa th\u1eb3ng c\u00e1nh c\u00f2 bay, v\u00ec th\u1ebf n\u00ean mi\u1ec1n T\u00e2y lu\u00f4n l\u00e0 \u0111i\u1ec3m \u0111\u1ebfn l\u00fd t\u01b0\u1edfng \u0111\u1ec3 du kh\u00e1ch h\u00f2a m\u00ecnh v\u00e0o thi\u00ean nhi\u00ean, sau nh\u1eefng ng\u00e0y l\u00e0m vi\u1ec7c b\u1eadn r\u1ed9n n\u01a1i ph\u1ed1 th\u1ecb \u1ed3n \u00e0o. M\u1ed7i t\u1ec9nh mi\u1ec1n T\u00e2y c\u00f3 m\u1ed9t m\u00e0u s\u1eafc ri\u00eang, m\u1ed7i \u0111\u1eb7c tr\u01b0ng ri\u00eang, c\u00f9ng iVIVU kh\u00e1m ph\u00e1 ngay h\u00f4m nay!", 
     "id": 2, 
-    "rating": 4.5
+    "rating": 4.5,
+    "lat": 9.178562,
+    "lng": 105.1492703
   }, 
   {
     "nameRoute": "TP HCM", 
     "image": "http://divui.com/blog/wp-content/uploads/2018/10/saigon.jpg", 
     "rating": 4.9, 
     "id": 3, 
+    "lat": 10.773544,
+    "lng": 106.6920893,
     "description": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh (S\u00e0i G\u00f2n) l\u00e0 \u0111\u1ea7u n\u00e3o, trung t\u00e2m du l\u1ecbch c\u1ee7a ph\u00eda nam. \u0110\u1ebfn \u0111\u00e2y b\u1ea1n c\u00f3 th\u1ec3 tham gia \u0111\u1ee7 m\u1ecdi lo\u1ea1i ho\u1ea1t \u0111\u1ed9ng vui ch\u01a1i gi\u1ea3i tr\u00ed t\u1eeb b\u00ecnh d\u00e2n \u0111\u1ebfn sang tr\u1ecdng, t\u1eeb ho\u1ea1t \u0111\u1ed9ng cho gia \u0111\u00ecnh \u0111\u1ebfn c\u1eb7p \u0111\u00f4i. \u0110\u00eam hay ng\u00e0y, s\u00e1ng s\u1edbm hay t\u1ed1i khuya."
   }, 
   {
@@ -99,6 +105,8 @@
     "image": "https://saigonstartravel.com/wp-content/uploads/2019/03/26-2.jpg", 
     "rating": 3.5, 
     "id": 4, 
+    "lat":10.343644,
+    "lng": 107.0724753,
     "description": "tham quan T\u01b0\u1ee3ng Ch\u00faa KiT\u00f4, t\u01b0\u1ee3ng ch\u00faa l\u1edbn nh\u1ea5t \u0110\u00f4ng Nam \u00c1 hi\u1ec7n nay, to\u1ea1 l\u1ea1c tr\u00ean \u0111\u1ec9nh N\u00fai Nh\u1ecf hay c\u00f2n g\u1ecdi l\u00e0 n\u00fai Tao Ph\u00f9ng, HDV s\u1ebd gi\u1edbi thi\u1ec7u v\u1ec1 T\u01b0\u1ee3ng Ch\u00faa, l\u1ecbch s\u1eed v\u1ec1 \u0111\u1ea1o thi\u00ean ch\u00faa v\u00e0 v\u00e0i n\u00e9t truy\u1ec1n thuy\u1ebft v\u1ec1 \u0110\u1ec9nh N\u00fai Tao Ph\u00f9ng. Qu\u00fd \u0110o\u00e0n l\u00ean hai c\u00e1nh tay dang r\u1ed9ng \u0111\u1ebfn 18.5 m \u0111\u1ec3 ng\u1eafm nh\u00ecn to\u00e0n c\u1ea3nh TP. V\u0169ng T\u00e0u, th\u00e0nh ph\u1ed1 ven bi\u1ec3n \u0111\u1ea7y th\u01a1 m\u1ed9ng n\u01a1i \u0111\u01b0\u1ee3c thi\u00ean nhi\u00ean \u01b0u \u0111\u00e3i"
   }, 
   {
@@ -106,6 +114,8 @@
     "image": "https://blog.traveloka.com/source/uploads/sites/9/2017/07/du-lich-phan-thiet-13.jpg", 
     "rating": 4.5, 
     "id": 5, 
+    "lat": 10.932246,
+    "lng": 108.1311638,
     "description": "Du l\u1ecbch Phan Thi\u1ebft t\u1eeb tr\u01b0\u1edbc \u0111\u1ebfn nay lu\u00f4n n\u1ed5i ti\u1ebfng v\u1edbi nh\u1eefng b\u00e3i bi\u1ec3n xanh trong v\u00e0 nh\u1eefng \u0111\u1ed3i c\u00e1t tr\u1ea3i d\u00e0i t\u00edt t\u1eafp. N\u1ebfu \u0111ang t\u00ecm ki\u1ebfm m\u1ed9t chuy\u1ebfn ngh\u1ec9 ng\u01a1i ng\u1eafn ng\u00e0y \u0111\u1ebfn m\u1ed9t th\u00e0nh ph\u1ed1 bi\u1ec3n xinh \u0111\u1eb9p th\u00ec Phan Thi\u1ebft l\u00e0 s\u1ef1 l\u1ef1a ch\u1ecdn kh\u00f4ng th\u1ec3 tuy\u1ec7t v\u1eddi h\u01a1n. \u201cTh\u1ee7\u201d ngay b\u00ed k\u00edp du l\u1ecbch Phan Thi\u1ebft c\u1ef1c chi ti\u1ebft d\u01b0\u1edbi \u0111\u00e2y \u0111\u1ec3 c\u00f3 chuy\u1ebfn kh\u00e1m ph\u00e1 th\u00fa v\u1ecb nh\u1ea5t nh\u00e9!"
   }
 ]
